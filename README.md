@@ -5,6 +5,8 @@
 - 📫 You can reach me at  
 - 😄 Pronouns: DJ/Dhanno
 - ⚡ Fun fact: Python was not named after a snake.
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="dhanraj-banglurkar-d2275" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/dhanraj-banglurkar-d2275?trk=profile-badge">Dhanraj Banglurkar</a></div>
+              
 
 <!---
 Dhanraj-N-Banglurkar/Dhanraj-N-Banglurkar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
